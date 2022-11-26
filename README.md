@@ -1,4 +1,4 @@
-### Hi there i am mehdi 👋
+### Hi there i am mehdi shafiei 👋
 
 <!--
 **hajmehdishafiei/hajmehdishafiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
